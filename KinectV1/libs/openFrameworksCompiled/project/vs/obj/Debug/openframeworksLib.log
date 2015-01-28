@@ -1,0 +1,74 @@
+﻿Build started 12-01-2015 11:46:53.
+     1>Project "C:\of_v0.8.0_vs_release\libs\openFrameworksCompiled\project\vs\openframeworksLib.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"..\..\lib\vs\openframeworksLib_debug.lib" /NOLOGO obj\Debug\of3dPrimitives.obj
+         obj\Debug\of3dUtils.obj
+         obj\Debug\ofCamera.obj
+         obj\Debug\ofEasyCam.obj
+         obj\Debug\ofMesh.obj
+         obj\Debug\ofNode.obj
+         obj\Debug\ofAppGLFWWindow.obj
+         obj\Debug\ofAppGlutWindow.obj
+         obj\Debug\ofAppNoWindow.obj
+         obj\Debug\ofAppRunner.obj
+         obj\Debug\ofEvents.obj
+         obj\Debug\ofFbo.obj
+         obj\Debug\ofGLRenderer.obj
+         obj\Debug\ofGLUtils.obj
+         obj\Debug\ofLight.obj
+         obj\Debug\ofMaterial.obj
+         obj\Debug\ofGLProgrammableRenderer.obj
+         obj\Debug\ofShader.obj
+         obj\Debug\ofTexture.obj
+         obj\Debug\ofVbo.obj
+         obj\Debug\ofVboMesh.obj
+         obj\Debug\of3dGraphics.obj
+         obj\Debug\ofBitmapFont.obj
+         obj\Debug\ofCairoRenderer.obj
+         obj\Debug\ofGraphics.obj
+         obj\Debug\ofImage.obj
+         obj\Debug\ofPath.obj
+         obj\Debug\ofPixels.obj
+         obj\Debug\ofPolyline.obj
+         obj\Debug\ofRendererCollection.obj
+         obj\Debug\ofTessellator.obj
+         obj\Debug\ofTrueTypeFont.obj
+         obj\Debug\ofMath.obj
+         obj\Debug\ofMatrix3x3.obj
+         obj\Debug\ofMatrix4x4.obj
+         obj\Debug\ofQuaternion.obj
+         obj\Debug\ofVec2f.obj
+         obj\Debug\ofVec4f.obj
+         obj\Debug\ofFmodSoundPlayer.obj
+         obj\Debug\ofRtAudioSoundStream.obj
+         obj\Debug\ofSoundPlayer.obj
+         obj\Debug\ofSoundStream.obj
+         obj\Debug\ofBaseTypes.obj
+         obj\Debug\ofColor.obj
+         obj\Debug\ofParameter.obj
+         obj\Debug\ofParameterGroup.obj
+         obj\Debug\ofRectangle.obj
+         obj\Debug\ofFileUtils.obj
+         obj\Debug\ofLog.obj
+         obj\Debug\ofMatrixStack.obj
+         obj\Debug\ofSystemUtils.obj
+         obj\Debug\ofThread.obj
+         obj\Debug\ofURLFileLoader.obj
+         obj\Debug\ofUtils.obj
+         obj\Debug\ofXml.obj
+         obj\Debug\ofDirectShowGrabber.obj
+         obj\Debug\ofQtUtils.obj
+         obj\Debug\ofQuickTimeGrabber.obj
+         obj\Debug\ofQuickTimePlayer.obj
+         obj\Debug\ofVideoGrabber.obj
+         obj\Debug\ofVideoPlayer.obj
+         obj\Debug\ofArduino.obj
+         obj\Debug\ofSerial.obj
+         openframeworksLib.vcxproj -> C:\of_v0.8.0_vs_release\libs\openFrameworksCompiled\project\vs\..\..\lib\vs\openframeworksLib_debug.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"..\..\lib\vs\openframeworksLib_debug.bsc" /n obj\Debug\of3dPrimitives.sbr obj\Debug\of3dUtils.sbr obj\Debug\ofCamera.sbr obj\Debug\ofEasyCam.sbr obj\Debug\ofMesh.sbr obj\Debug\ofNode.sbr obj\Debug\ofAppGLFWWindow.sbr obj\Debug\ofAppGlutWindow.sbr obj\Debug\ofAppNoWindow.sbr obj\Debug\ofAppRunner.sbr obj\Debug\ofEvents.sbr obj\Debug\ofFbo.sbr obj\Debug\ofGLRenderer.sbr obj\Debug\ofGLUtils.sbr obj\Debug\ofLight.sbr obj\Debug\ofMaterial.sbr obj\Debug\ofGLProgrammableRenderer.sbr obj\Debug\ofShader.sbr obj\Debug\ofTexture.sbr obj\Debug\ofVbo.sbr obj\Debug\ofVboMesh.sbr obj\Debug\of3dGraphics.sbr obj\Debug\ofBitmapFont.sbr obj\Debug\ofCairoRenderer.sbr obj\Debug\ofGraphics.sbr obj\Debug\ofImage.sbr obj\Debug\ofPath.sbr obj\Debug\ofPixels.sbr obj\Debug\ofPolyline.sbr obj\Debug\ofRendererCollection.sbr obj\Debug\ofTessellator.sbr obj\Debug\ofTrueTypeFont.sbr obj\Debug\ofMath.sbr obj\Debug\ofMatrix3x3.sbr obj\Debug\ofMatrix4x4.sbr obj\Debug\ofQuaternion.sbr obj\Debug\ofVec2f.sbr obj\Debug\ofVec4f.sbr obj\Debug\ofFmodSoundPlayer.sbr obj\Debug\ofRtAudioSoundStream.sbr obj\Debug\ofSoundPlayer.sbr obj\Debug\ofSoundStream.sbr obj\Debug\ofBaseTypes.sbr obj\Debug\ofColor.sbr obj\Debug\ofParameter.sbr obj\Debug\ofParameterGroup.sbr obj\Debug\ofRectangle.sbr obj\Debug\ofFileUtils.sbr obj\Debug\ofLog.sbr obj\Debug\ofMatrixStack.sbr obj\Debug\ofSystemUtils.sbr obj\Debug\ofThread.sbr obj\Debug\ofURLFileLoader.sbr obj\Debug\ofUtils.sbr obj\Debug\ofXml.sbr obj\Debug\ofDirectShowGrabber.sbr obj\Debug\ofQtUtils.sbr obj\Debug\ofQuickTimeGrabber.sbr obj\Debug\ofQuickTimePlayer.sbr obj\Debug\ofVideoGrabber.sbr obj\Debug\ofVideoPlayer.sbr obj\Debug\ofArduino.sbr obj\Debug\ofSerial.sbr
+     1>Done Building Project "C:\of_v0.8.0_vs_release\libs\openFrameworksCompiled\project\vs\openframeworksLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:38.40

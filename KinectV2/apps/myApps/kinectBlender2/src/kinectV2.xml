@@ -1,0 +1,112 @@
+<skeleton>
+	<nodes>
+		<node id="0" />
+		<node id="1" />
+		<node id="2" />
+		<node id="3" />
+		<node id="4" />
+		<node id="5" />
+		<node id="6" />
+		<node id="7" />
+		<node id="8" />
+		<node id="9" />
+		<node id="10" />
+		<node id="11" />
+		<node id="12" />
+		<node id="13" />
+		<node id="14" />
+		<node id="15" />
+		<node id="16" />
+		<node id="17" />
+		<node id="18" />
+		<node id="19" />
+		<node id="20" />
+		<node id="21" />
+		<node id="22" />
+		<node id="23" />
+		<node id="24" />
+	</nodes>
+	<alignments>
+		<align id="4" name="shoulder.L">
+			<rotation w="0.707" x="0" y="-0.707" z="0" />
+		</align>
+		<align id="8" name="shoulder.R">
+			<rotation w="0.707" x="0" y="0.707" z="0" />
+		</align>
+		<!-- Too much noise in arm data -->
+		<!--
+		<align id="5" name="upper_arm.fk.L">
+			<rotation w="0.966" x="0.259" y="0" z="0" />
+		</align>
+		<align id="6" name="forearm.fk.L" >
+			<rotation w="0.707" x="0" y="-0.707" z="0" /> 
+		</align>
+		<align id="9" name="upper_arm.fk.R">
+		</align>
+		<align id="10" name="forearm.fk.R" >
+			<rotation w="0.707" x="0" y="0.707" z="0" />
+		</align>
+		-->
+		<align id="13" name="thigh.fk.L">
+			<rotation w="0.707" x="0" y="-0.707" z="0" /> 
+		</align>
+		<align id="14" name="shin.fk.L">
+			<rotation w="0.707" x="0" y="-0.707" z="0" /> 
+		</align>
+		<align id="17" name="thigh.fk.R">
+			<rotation w="0.707" x="0" y="0.707" z="0" />
+		</align>
+		<align id="18" name="shin.fk.R">
+			<rotation w="0.707" x="0" y="0.707" z="0" />
+		</align>	
+	</alignments>
+	<rotations>
+		<bone id="0" name="hips">
+			<rotation w="0" x="0" y="1" z="0" />
+		</bone>
+		<bone id="1" name="spine">
+			<rotation w="0" x="0" y="1" z="0" />
+		</bone>
+		<bone id="2" name="neck">
+			<rotation w="0" x="0" y="1" z="0" />
+		</bone>
+		<bone id="3" name="head" />
+		<bone id="4" name="shoulder.L">
+			<rotation w="0" x="-0.866" y="0.5" z="0" /> 
+		</bone>
+		<!-- Too much noise in arm data -->
+		<bone id="5" name="upper_arm.fk.L" ></bone>
+		<bone id="6" name="forearm.fk.L" ></bone>
+		<bone id="7" name="hand.fk.L" ></bone>
+		<bone id="8" name="shoulder.R" >
+			<rotation w="0" x="0.866" y="0.5" z="0" /> 
+		</bone>
+		<!-- Too much noise in arm data -->
+		<bone id="9" name="upper_arm.fk.R" ></bone>
+		<bone id="10" name="forearm.fk.R" ></bone>
+		<bone id="11" name="hand.fk.R" ></bone>
+		<bone id="12" name="hips.L" />
+		<bone id="13" name="thigh.fk.L" >
+			<rotation w="0" x="-0.5" y="0" z="0.866" />
+		</bone>	
+		<bone id="14" name="shin.fk.L" >
+			<rotation w="0" x="-0.5" y="0" z="0.866" />
+		</bone>
+		<bone id="15" name="foot.L" />
+		<bone id="16" name="hips.R" />
+		<bone id="17" name="thigh.fk.R" >
+			<rotation w="0" x="0.866" y="0" z="0.5" />
+		</bone>	
+		<bone id="18" name="shin.fk.R" >
+			<rotation w="0" x="0.866" y="0" z="0.5" />
+		</bone>	
+		<bone id="19" name="foot.R" />
+		<bone id="20" name="chest" >
+			<rotation w="0" x="0" y="1" z="0" />
+		</bone>
+		<bone id="21" name="handtip.L" />
+		<bone id="22" name="thumb.L" />
+		<bone id="23" name="handtip.R" />
+		<bone id="24" name="thumb.R" />
+	</rotations>
+</skeleton>
